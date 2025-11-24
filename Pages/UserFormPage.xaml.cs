@@ -54,13 +54,13 @@ namespace WpfApp_DataBinding_EF.Pages
                 return;
             }
 
-            if (!_service.IsLoginUnique(_user.Login, _user.Id))
+            if (_service.IsLoginUnique(_user.Login, _user.Id))
             {
                 MessageBox.Show("Такой логин уже есть");
                 return;
             }
 
-            if (!_service.IsEmailUnique(_user.Email, _user.Id))
+            if (_service.IsEmailUnique(_user.Email, _user.Id))
             {
                 MessageBox.Show("Такой email уже есть");
                 return;

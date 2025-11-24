@@ -46,12 +46,12 @@ namespace WpfApp_DataBinding_EF.Services
 
         public bool IsLoginUnique(string login, int currentId = 0)
         {
-            return !_db.Users.Any(u => u.Login.ToLower() == login.ToLower() && u.Id != currentId);
+            return _db.Users.Any(u => u.Login.ToLower() == login.ToLower() && u.Id != currentId);
         }
 
         public bool IsEmailUnique(string email, int currentId = 0)
         {
-            return !_db.Users.Any(u => u.Email.ToLower() == email.ToLower() && u.Id != currentId);
+            return _db.Users.Any(u => u.Email.ToLower() == email.ToLower() && u.Id != currentId);
         }
     }
 }
