@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\styles\\panels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:styles\\panels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\styles\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:styles\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\validators\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\validators\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\validators\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\validators\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\migrations\\20251124012134_addcreatedat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:migrations\\20251124012134_addcreatedat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\migrations\\20251124011926_initialusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:migrations\\20251124011926_initialusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\wpfapp_databinding_ef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:29:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\UserFormPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\UserFormPage.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\UserFormPage.xaml",
+              "RelativeToolTip": "Pages\\UserFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:29:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Emailvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\Emailvalidation.cs",
+              "RelativeDocumentMoniker": "Validators\\Emailvalidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\Emailvalidation.cs",
+              "RelativeToolTip": "Validators\\Emailvalidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:25:55.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Text.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Styles\\Text.xaml",
+              "RelativeDocumentMoniker": "Styles\\Text.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Styles\\Text.xaml",
+              "RelativeToolTip": "Styles\\Text.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:32:58.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:12:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Styles\\Button.xaml",
+              "RelativeDocumentMoniker": "Styles\\Button.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Styles\\Button.xaml",
+              "RelativeToolTip": "Styles\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:32:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Panels.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Styles\\Panels.xaml",
+              "RelativeDocumentMoniker": "Styles\\Panels.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Styles\\Panels.xaml",
+              "RelativeToolTip": "Styles\\Panels.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:33:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Passwordvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\Passwordvalidation.cs",
+              "RelativeDocumentMoniker": "Validators\\Passwordvalidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\Passwordvalidation.cs",
+              "RelativeToolTip": "Validators\\Passwordvalidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:26:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatedAtValidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\CreatedAtValidation.cs",
+              "RelativeDocumentMoniker": "Validators\\CreatedAtValidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\CreatedAtValidation.cs",
+              "RelativeToolTip": "Validators\\CreatedAtValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:27:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loginvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\Loginvalidation.cs",
+              "RelativeDocumentMoniker": "Validators\\Loginvalidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Validators\\Loginvalidation.cs",
+              "RelativeToolTip": "Validators\\Loginvalidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:25:27.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:12:11.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:33:57.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:30:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\UserFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Pages\\UserFormPage.xaml.cs",
+              "RelativeToolTip": "Pages\\UserFormPage.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:30:18.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Services\\UsersService.cs",
+              "RelativeToolTip": "Services\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:22:46.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251124012134_AddCreatedAt.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Migrations\\20251124012134_AddCreatedAt.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251124012134_AddCreatedAt.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Migrations\\20251124012134_AddCreatedAt.cs",
+              "RelativeToolTip": "Migrations\\20251124012134_AddCreatedAt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:21:34.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251124011926_InitialUsers.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Migrations\\20251124011926_InitialUsers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251124011926_InitialUsers.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Migrations\\20251124011926_InitialUsers.cs",
+              "RelativeToolTip": "Migrations\\20251124011926_InitialUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:19:26.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:18:31.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\WpfApp_DataBinding_EF\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:17:42.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
