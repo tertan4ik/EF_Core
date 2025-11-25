@@ -27,8 +27,8 @@ namespace WpfApp_DataBinding_EF.Data
             .WithOne(ps => ps.User)
             .HasForeignKey<UserProfile>(ps => ps.Id);
 
-            modelBuilder.Entity<Role>() // отношение один-ко-многим
-            .HasMany(g => g.User)
+            modelBuilder.Entity < Role>() // отношение один-ко-многим
+            .HasMany(r => r.User)
             .WithOne(s => s.Group)
             .HasForeignKey(s => s.GroupId);
         }
