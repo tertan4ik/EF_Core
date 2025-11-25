@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using WpfApp_DataBinding_EF.Models;
 
@@ -11,11 +12,25 @@ namespace WpfApp_DataBinding_EF.Data
     public class AppDbContext : DbContext
     {
         public DbSet<User> Users { get; set; }
+        public DbSet<UserProfile> UserProfiles { get; set; }
+        public DbSet<Role> Roles { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
                 "Server=sql.ects;Database=UsersDb_Eremeev;User Id=student_06;Password=student_06;TrustServerCertificate=True;");
+        }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>() // отношение один-к-одному
+            .HasOne(s => s.Userprofile)
+            .WithOne(ps => ps.User)
+            .HasForeignKey<UserProfile>(ps => ps.Id);
+
+            modelBuilder.Entity<Role>() // отношение один-ко-многим
+            .HasMany(g => g.User)
+            .WithOne(s => s.Group)
+            .HasForeignKey(s => s.GroupId);
         }
     }
 }

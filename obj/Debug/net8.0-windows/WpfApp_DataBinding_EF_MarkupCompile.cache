@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\st310-06\Desktop\Eremeev\EF_Core\obj\Debug\net8.0-windows\
+C:\Users\st310-06\Desktop\EF_Core\obj\Debug\net8.0-windows\
 WpfApp_DataBinding_EF
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\st310-06\Desktop\Eremeev\EF_Core\App.xaml
+C:\Users\st310-06\Desktop\EF_Core\App.xaml
 61053598810
 
-201973441093
+24336631746
 231-774572965
 MainWindow.xaml;Pages\MainPage.xaml;Pages\UserFormPage.xaml;Styles\Button.xaml;Styles\Panels.xaml;Styles\Text.xaml;
 
-False
+True
 

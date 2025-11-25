@@ -8,8 +8,9 @@ using System.Threading.Tasks;
 
 namespace WpfApp_DataBinding_EF.Models
 {
-    public class User : INotifyPropertyChanged
+    public class UserProfile:INotifyPropertyChanged
     {
+         
         private int _id;
         public int Id
         {
@@ -24,15 +25,15 @@ namespace WpfApp_DataBinding_EF.Models
             }
         }
 
-        private string _login = "";
-        public string Login
+        private string _AvatarUrl = "";
+        public string AvatarUrl
         {
-            get => _login;
+            get => _AvatarUrl;
             set
             {
-                if (_login != value)
+                if (_AvatarUrl != value)
                 {
-                    _login = value;
+                    _AvatarUrl = value;
                     OnPropertyChanged();
                 }
             }
@@ -52,63 +53,57 @@ namespace WpfApp_DataBinding_EF.Models
             }
         }
 
-        private string _email = "";
-        public string Email
+        private string _phone = "";
+        public string Phone
         {
-            get => _email;
+            get => _phone;
             set
             {
-                if (_email != value)
+                if (_phone != value)
                 {
-                    _email = value;
+                    _phone = value;
                     OnPropertyChanged();
                 }
             }
         }
 
-        private string _password = "";
-        public string Password
+ 
+
+        private DateTime _birthday;
+        public DateTime Birthday
         {
-            get => _password;
+            get => _birthday;
             set
             {
-                if (_password != value)
+                if (_birthday != value)
                 {
-                    _password = value;
+                    _birthday = value;
                     OnPropertyChanged();
                 }
             }
         }
 
-        private DateTime _createdAt = DateTime.Now;
-        public DateTime CreatedAt
+        private string _bio = "";
+        public string Bio
         {
-            get => _createdAt;
+            get => _bio;
             set
             {
-                if (_createdAt != value)
+                if (_bio != value)
                 {
-                    _createdAt = value;
+                    _bio = value;
                     OnPropertyChanged();
                 }
             }
         }
-        private UserProfile _userprofile;
-        public UserProfile Userprofile
+
+        private User _user;
+        public User User
         {
-            get => _userprofile;
+            get => _user;
             set
             {
-                _userprofile = value;
-            }
-        }
-        private Role _role;
-        public Role Role
-        {
-            get => _role;
-            set
-            {
-                _role = value;
+                 _user=value;
             }
         }
         public event PropertyChangedEventHandler? PropertyChanged;
@@ -119,3 +114,4 @@ namespace WpfApp_DataBinding_EF.Models
         }
     }
 }
+
