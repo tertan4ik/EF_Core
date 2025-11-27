@@ -17,8 +17,15 @@ namespace WpfApp_DataBinding_EF.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+<<<<<<< HEAD
             optionsBuilder.UseSqlServer(
                 "Server=sql.ects;Database=UsersDb_Eremeev;User Id=student_06;Password=student_06;TrustServerCertificate=True;");
+=======
+            //optionsBuilder.UseSqlServer(
+            //    "Server=sql.ects;Database=UsersDb_Eremeev;User Id=student_06;Password=student_06;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer(
+               "Server=localhost;Database=UsersDb_Eremeev;Trusted_Connection=True;TrustServerCertificate=True;");
+>>>>>>> b14fbb8 (complete prac 13)
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -28,9 +35,15 @@ namespace WpfApp_DataBinding_EF.Data
             .HasForeignKey<UserProfile>(ps => ps.Id);
 
             modelBuilder.Entity < Role>() // отношение один-ко-многим
+<<<<<<< HEAD
             .HasMany(r => r.User)
             .WithOne(s => s.Group)
             .HasForeignKey(s => s.GroupId);
+=======
+            .HasMany(r => r.Users)
+            .WithOne(u => u.Role)
+            .HasForeignKey(u => u.Role_Id);
+>>>>>>> b14fbb8 (complete prac 13)
         }
     }
 }

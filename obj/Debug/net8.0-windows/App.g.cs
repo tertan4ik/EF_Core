@@ -49,7 +49,11 @@ namespace WpfApp_DataBinding_EF {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+<<<<<<< HEAD
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "9.0.4.0")]
+=======
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "9.0.10.0")]
+>>>>>>> b14fbb8 (complete prac 13)
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
@@ -75,7 +79,11 @@ namespace WpfApp_DataBinding_EF {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+<<<<<<< HEAD
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "9.0.4.0")]
+=======
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "9.0.10.0")]
+>>>>>>> b14fbb8 (complete prac 13)
         public static void Main() {
             WpfApp_DataBinding_EF.App app = new WpfApp_DataBinding_EF.App();
             app.InitializeComponent();

@@ -22,6 +22,26 @@ namespace WpfApp_DataBinding_EF.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+<<<<<<< HEAD
+=======
+            modelBuilder.Entity("WpfApp_DataBinding_EF.Models.Role", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Roles");
+                });
+
+>>>>>>> b14fbb8 (complete prac 13)
             modelBuilder.Entity("WpfApp_DataBinding_EF.Models.User", b =>
                 {
                     b.Property<int>("Id")
@@ -49,8 +69,18 @@ namespace WpfApp_DataBinding_EF.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+<<<<<<< HEAD
                     b.HasKey("Id");
 
+=======
+                    b.Property<int>("Role_Id")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Role_Id");
+
+>>>>>>> b14fbb8 (complete prac 13)
                     b.ToTable("Users");
                 });
 
@@ -83,6 +113,20 @@ namespace WpfApp_DataBinding_EF.Migrations
                     b.ToTable("UserProfiles");
                 });
 
+<<<<<<< HEAD
+=======
+            modelBuilder.Entity("WpfApp_DataBinding_EF.Models.User", b =>
+                {
+                    b.HasOne("WpfApp_DataBinding_EF.Models.Role", "Role")
+                        .WithMany("Users")
+                        .HasForeignKey("Role_Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Role");
+                });
+
+>>>>>>> b14fbb8 (complete prac 13)
             modelBuilder.Entity("WpfApp_DataBinding_EF.Models.UserProfile", b =>
                 {
                     b.HasOne("WpfApp_DataBinding_EF.Models.User", "User")
@@ -94,6 +138,14 @@ namespace WpfApp_DataBinding_EF.Migrations
                     b.Navigation("User");
                 });
 
+<<<<<<< HEAD
+=======
+            modelBuilder.Entity("WpfApp_DataBinding_EF.Models.Role", b =>
+                {
+                    b.Navigation("Users");
+                });
+
+>>>>>>> b14fbb8 (complete prac 13)
             modelBuilder.Entity("WpfApp_DataBinding_EF.Models.User", b =>
                 {
                     b.Navigation("Userprofile")

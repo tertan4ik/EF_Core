@@ -67,7 +67,11 @@ namespace WpfApp_DataBinding_EF.Models
             }
         }
 
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> b14fbb8 (complete prac 13)
 
         private DateTime _birthday;
         public DateTime Birthday

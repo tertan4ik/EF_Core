@@ -4859,12 +4859,17 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\st310-06\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\pavel\\.nuget\\packages\\": {}
+>>>>>>> b14fbb8 (complete prac 13)
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\st310-06\\Desktop\\EF_Core\\WpfApp_DataBinding_EF.csproj",
       "projectName": "WpfApp_DataBinding_EF",
       "projectPath": "C:\\Users\\st310-06\\Desktop\\EF_Core\\WpfApp_DataBinding_EF.csproj",
@@ -4877,6 +4882,16 @@
       "configFilePaths": [
         "C:\\Users\\st310-06\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\WpfApp_DataBinding_EF.csproj",
+      "projectName": "WpfApp_DataBinding_EF",
+      "projectPath": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\WpfApp_DataBinding_EF.csproj",
+      "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> b14fbb8 (complete prac 13)
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4884,8 +4899,11 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
         "C:\\Program Files\\dotnet\\library-packs": {},
         "C:\\Users\\st310-06\\.nuget\\packages": {},
+=======
+>>>>>>> b14fbb8 (complete prac 13)
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4904,7 +4922,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "9.0.200"
+=======
+      "SdkAnalysisLevel": "9.0.300"
+>>>>>>> b14fbb8 (complete prac 13)
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -4948,7 +4970,11 @@
             "privateAssets": "none"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+>>>>>>> b14fbb8 (complete prac 13)
       }
     }
   }

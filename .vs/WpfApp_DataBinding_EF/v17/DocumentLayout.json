@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\st310-06\\Desktop\\EF_Core\\",
   "Documents": [
     {
@@ -93,6 +94,113 @@
     {
       "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\st310-06\\desktop\\ef_core\\migrations\\20251125083354_adduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:migrations\\20251125083354_adduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\pages\\rolespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\rolespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\services\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:services\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\userformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\userformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\pages\\rolespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\rolespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\validators\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\migrations\\20251126224315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:migrations\\20251126224315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\migrations\\20251126230448_defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:migrations\\20251126230448_defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\services\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:services\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\styles\\panels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:styles\\panels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\styles\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:styles\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\validators\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\validators\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\validators\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:validators\\createdatvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|c:\\users\\pavel\\onedrive\\desktop\\trpo\\ef_core\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D96BA1-6C13-457A-BD09-7ACA1AC8E7E4}|WpfApp_DataBinding_EF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+>>>>>>> b14fbb8 (complete prac 13)
     }
   ],
   "DocumentGroupContainers": [
@@ -102,6 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 15,
+<<<<<<< HEAD
           "SelectedChildIndex": 23,
           "Children": [
             {
@@ -121,12 +230,26 @@
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Models\\Role.cs",
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
+=======
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+>>>>>>> b14fbb8 (complete prac 13)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T08:35:22.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
               "Title": "20251125083354_adduserprofile.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Migrations\\20251125083354_adduserprofile.cs",
@@ -180,12 +303,44 @@
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Pages\\UserFormPage.xaml",
               "RelativeDocumentMoniker": "Pages\\UserFormPage.xaml",
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Pages\\UserFormPage.xaml",
+=======
+              "DocumentIndex": 8,
+              "Title": "RolesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\RolesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RolesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\RolesPage.xaml.cs",
+              "RelativeToolTip": "Pages\\RolesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:43:06.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\UserFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\UserFormPage.xaml.cs",
+              "RelativeToolTip": "Pages\\UserFormPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:30:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\UserFormPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\UserFormPage.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\UserFormPage.xaml",
+>>>>>>> b14fbb8 (complete prac 13)
               "RelativeToolTip": "Pages\\UserFormPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-24T01:29:50.757Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
               "Title": "Emailvalidation.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\Emailvalidation.cs",
@@ -193,12 +348,107 @@
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\Emailvalidation.cs",
               "RelativeToolTip": "Validators\\Emailvalidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+=======
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:29:31.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesService.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Services\\RolesService.cs",
+              "RelativeDocumentMoniker": "Services\\RolesService.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Services\\RolesService.cs",
+              "RelativeToolTip": "Services\\RolesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:55:35.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Services\\UsersService.cs",
+              "RelativeToolTip": "Services\\UsersService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwF4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:22:46.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\RolesPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RolesPage.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\RolesPage.xaml",
+              "RelativeToolTip": "Pages\\RolesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T01:42:08.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:30:00.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADgv0UAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:17:42.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwE0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:11:29.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Emailvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\Emailvalidation.cs",
+              "RelativeDocumentMoniker": "Validators\\Emailvalidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\Emailvalidation.cs",
+              "RelativeToolTip": "Validators\\Emailvalidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+>>>>>>> b14fbb8 (complete prac 13)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T01:25:55.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+<<<<<<< HEAD
               "Title": "Text.xaml",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Styles\\Text.xaml",
               "RelativeDocumentMoniker": "Styles\\Text.xaml",
@@ -214,12 +464,19 @@
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\MainWindow.xaml",
+=======
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\MainWindow.xaml",
+>>>>>>> b14fbb8 (complete prac 13)
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-24T01:12:14.216Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
               "Title": "Button.xaml",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Styles\\Button.xaml",
@@ -236,6 +493,49 @@
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Styles\\Panels.xaml",
               "RelativeDocumentMoniker": "Styles\\Panels.xaml",
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Styles\\Panels.xaml",
+=======
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:18:31.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251126230448_defaultroles.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Migrations\\20251126230448_defaultroles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251126230448_defaultroles.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Migrations\\20251126230448_defaultroles.cs",
+              "RelativeToolTip": "Migrations\\20251126230448_defaultroles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:04:48.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251126224315_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Migrations\\20251126224315_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251126224315_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Migrations\\20251126224315_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251126224315_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:00:40.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Panels.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Styles\\Panels.xaml",
+              "RelativeDocumentMoniker": "Styles\\Panels.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Styles\\Panels.xaml",
+>>>>>>> b14fbb8 (complete prac 13)
               "RelativeToolTip": "Styles\\Panels.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-24T01:33:19.722Z"
@@ -243,10 +543,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
+<<<<<<< HEAD
               "Title": "Passwordvalidation.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\Passwordvalidation.cs",
               "RelativeDocumentMoniker": "Validators\\Passwordvalidation.cs",
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\Passwordvalidation.cs",
+=======
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:00:38.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Services\\BaseDbService.cs",
+              "RelativeDocumentMoniker": "Services\\BaseDbService.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Services\\BaseDbService.cs",
+              "RelativeToolTip": "Services\\BaseDbService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:54:05.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Text.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Styles\\Text.xaml",
+              "RelativeDocumentMoniker": "Styles\\Text.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Styles\\Text.xaml",
+              "RelativeToolTip": "Styles\\Text.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:32:58.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Styles\\Button.xaml",
+              "RelativeDocumentMoniker": "Styles\\Button.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Styles\\Button.xaml",
+              "RelativeToolTip": "Styles\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:32:21.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Passwordvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\Passwordvalidation.cs",
+              "RelativeDocumentMoniker": "Validators\\Passwordvalidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\Passwordvalidation.cs",
+>>>>>>> b14fbb8 (complete prac 13)
               "RelativeToolTip": "Validators\\Passwordvalidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,11 +607,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 16,
               "Title": "CreatedAtValidation.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\CreatedAtValidation.cs",
               "RelativeDocumentMoniker": "Validators\\CreatedAtValidation.cs",
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\CreatedAtValidation.cs",
+=======
+              "DocumentIndex": 24,
+              "Title": "CreatedAtValidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\CreatedAtValidation.cs",
+              "RelativeDocumentMoniker": "Validators\\CreatedAtValidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\CreatedAtValidation.cs",
+>>>>>>> b14fbb8 (complete prac 13)
               "RelativeToolTip": "Validators\\CreatedAtValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,11 +627,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
               "Title": "Loginvalidation.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\Loginvalidation.cs",
               "RelativeDocumentMoniker": "Validators\\Loginvalidation.cs",
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\Validators\\Loginvalidation.cs",
+=======
+              "DocumentIndex": 22,
+              "Title": "Loginvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\Loginvalidation.cs",
+              "RelativeDocumentMoniker": "Validators\\Loginvalidation.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\Validators\\Loginvalidation.cs",
+>>>>>>> b14fbb8 (complete prac 13)
               "RelativeToolTip": "Validators\\Loginvalidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -278,11 +647,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\st310-06\\Desktop\\EF_Core\\MainWindow.xaml.cs",
+=======
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\MainWindow.xaml.cs",
+>>>>>>> b14fbb8 (complete prac 13)
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIA0wBMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -290,6 +667,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\EF_Core\\App.xaml",
@@ -384,6 +762,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T01:17:42.992Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\pavel\\OneDrive\\Desktop\\TRPO\\EF_Core\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T01:33:57.763Z"
+>>>>>>> b14fbb8 (complete prac 13)
             }
           ]
         }

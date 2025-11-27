@@ -5,6 +5,12 @@
     <Compile Update="Pages\MainPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Update="Pages\RolesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+>>>>>>> b14fbb8 (complete prac 13)
     <Compile Update="Pages\UserFormPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

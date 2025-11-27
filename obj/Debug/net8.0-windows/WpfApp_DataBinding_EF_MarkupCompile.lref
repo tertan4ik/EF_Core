@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ﻿C:\Users\st310-06\Desktop\EF_Core\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 
 FC:\Users\st310-06\Desktop\EF_Core\MainWindow.xaml;;
 FC:\Users\st310-06\Desktop\EF_Core\Pages\MainPage.xaml;;
 FC:\Users\st310-06\Desktop\EF_Core\Pages\UserFormPage.xaml;;
+=======
+﻿
+
+FC:\Users\pavel\OneDrive\Desktop\TRPO\EF_Core\MainWindow.xaml;;
+FC:\Users\pavel\OneDrive\Desktop\TRPO\EF_Core\Pages\RolesPage.xaml;;
+FC:\Users\pavel\OneDrive\Desktop\TRPO\EF_Core\Pages\UserFormPage.xaml;;
+>>>>>>> b14fbb8 (complete prac 13)
 

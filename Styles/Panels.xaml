@@ -9,6 +9,10 @@
     <!-- Панель кнопок -->
     <Style x:Key="ButtonPanel" TargetType="StackPanel">
         <Setter Property="Orientation" Value="Horizontal"/>
+<<<<<<< HEAD
+=======
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+>>>>>>> b14fbb8 (complete prac 13)
         <Setter Property="Margin" Value="10"/>
     </Style>
 

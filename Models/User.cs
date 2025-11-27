@@ -23,7 +23,23 @@ namespace WpfApp_DataBinding_EF.Models
                 }
             }
         }
+<<<<<<< HEAD
 
+=======
+        private int _role_id;
+        public int Role_Id
+        {
+            get => _role_id;
+            set
+            {
+                if (_role_id != value)
+                {
+                    _role_id = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+>>>>>>> b14fbb8 (complete prac 13)
         private string _login = "";
         public string Login
         {

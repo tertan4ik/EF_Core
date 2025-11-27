@@ -25,6 +25,10 @@ namespace WpfApp_DataBinding_EF.Models
             }
         }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b14fbb8 (complete prac 13)
         private string _title = "";
         public string Title
         {
@@ -41,7 +45,11 @@ namespace WpfApp_DataBinding_EF.Models
 
 
         private ObservableCollection<User> _user;
+<<<<<<< HEAD
         public ObservableCollection<User> User
+=======
+        public ObservableCollection<User> Users
+>>>>>>> b14fbb8 (complete prac 13)
         {
             get => _user;
             set
